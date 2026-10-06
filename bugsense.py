@@ -1,2 +1,4 @@
 print("BugSense - Bug Tracking System")
 print("Student: Hetvi Purohit")
+print("Status: Open")
+print("Report module added")
