@@ -1,2 +1,2 @@
 print("BugSense - Bug Tracking System")
-print("Student: Hetvi")
+print("Student: Hetvi Purohit")
